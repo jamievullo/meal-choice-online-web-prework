@@ -2,5 +2,5 @@
 # passed into it and defaults to meat.
 
 def meal_choice(meal = "meat")
-returns "Meal choice : #{meal}."
+return "Meal choice : #{meal}."
 end
